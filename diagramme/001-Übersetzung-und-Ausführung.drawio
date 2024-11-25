@@ -1,0 +1,67 @@
+<mxfile host="Electron" modified="2024-11-25T13:55:19.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.6 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="A2mjkJd-0biCRaxw0sPp" version="24.4.6" type="device">
+  <diagram name="Seite-1" id="eAWKeKxlaO-4SChCx2HW">
+    <mxGraphModel dx="1528" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uMfrwZlnXBKB5MG0ICFv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMfrwZlnXBKB5MG0ICFv-1" target="uMfrwZlnXBKB5MG0ICFv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uMfrwZlnXBKB5MG0ICFv-1" value="&lt;b&gt;Quelltextdatei &lt;/b&gt;enthält Anweisungen in menschenlesbarer Form (ist in einer Programmiersprache formuliert)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Im Falle von Java haben die Quelltextdateien die Endung .java&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="180" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="uMfrwZlnXBKB5MG0ICFv-5" value="erstellt" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMfrwZlnXBKB5MG0ICFv-2" target="uMfrwZlnXBKB5MG0ICFv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uMfrwZlnXBKB5MG0ICFv-2" value="&lt;b&gt;Compiler&lt;/b&gt;&lt;div&gt;(Er ist Bestandteil des SDKs. Er übersetzt die Quelltextdatei in ein ausführbares Programm)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="584.5" y="140" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="uMfrwZlnXBKB5MG0ICFv-4" value="&lt;b&gt;Kompilat&lt;/b&gt;&lt;div&gt;(eine ausführbare Datei, eine Funktionsbibliothek, ein Zwischencode etc. Der Inhalt ist maschinenlesbar.)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Beispiele: Eine .exe Datei, eine .dll Datei, eine .so Datei etc.&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="800" y="120" width="180" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="uMfrwZlnXBKB5MG0ICFv-7" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Übersetzung von Quelltext mit Hilfe eines Compilers&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="30" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uMfrwZlnXBKB5MG0ICFv-8" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Übersetzung und Ausführung von Java Programmen&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="420" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uMfrwZlnXBKB5MG0ICFv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMfrwZlnXBKB5MG0ICFv-9" target="uMfrwZlnXBKB5MG0ICFv-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uMfrwZlnXBKB5MG0ICFv-9" value="&lt;b&gt;Quelltextdatei mit Endung .java&lt;/b&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="340" y="490" width="100" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="uMfrwZlnXBKB5MG0ICFv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMfrwZlnXBKB5MG0ICFv-10" target="uMfrwZlnXBKB5MG0ICFv-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uMfrwZlnXBKB5MG0ICFv-10" value="&lt;b&gt;Java Compiler (javac.exe)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="475" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="uMfrwZlnXBKB5MG0ICFv-15" value="&quot;launchen&quot;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMfrwZlnXBKB5MG0ICFv-12" target="uMfrwZlnXBKB5MG0ICFv-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uMfrwZlnXBKB5MG0ICFv-12" value="&lt;b&gt;Kompilat (eine .class Datei)&lt;/b&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="700" y="490" width="100" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="uMfrwZlnXBKB5MG0ICFv-14" value="&lt;b&gt;Java Runtime / Java Virtual Machine (eine Software, die class-Dateien auf der echten Hardware ausführt und überwacht)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="920" y="475" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="uMfrwZlnXBKB5MG0ICFv-16" value="Hardware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1260" width="385" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uMfrwZlnXBKB5MG0ICFv-17" value="Betriebssystem (Windows, Linux, MacOS, iOS, Android)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1180" width="385" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uMfrwZlnXBKB5MG0ICFv-18" value="Java Virtual Machine / Java Runtime" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1100" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uMfrwZlnXBKB5MG0ICFv-19" value="Unser Java Programm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1020" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uMfrwZlnXBKB5MG0ICFv-20" value="&lt;h1&gt;Unser Java Programm weiß nichts vom darunterliegenden Betriebssystem. Es verwendet stets die Schnittstelle der Java Virtual Machine.&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="290" y="880" width="760" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

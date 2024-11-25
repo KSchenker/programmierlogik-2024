@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-Fundamentals.iml" filepath="$PROJECT_DIR$/Java-Fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P001-HelloWorld/P001-HelloWorld.iml" filepath="$PROJECT_DIR$/P001-HelloWorld/P001-HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P002-Elementare-Datentypen/P002-Elementare-Datentypen.iml" filepath="$PROJECT_DIR$/P002-Elementare-Datentypen/P002-Elementare-Datentypen.iml" />
+    </modules>
+  </component>
+</project>
