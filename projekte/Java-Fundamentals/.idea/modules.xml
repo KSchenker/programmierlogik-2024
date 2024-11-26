@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/P001-HelloWorld/P001-HelloWorld.iml" filepath="$PROJECT_DIR$/P001-HelloWorld/P001-HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/P002-Elementare-Datentypen/P002-Elementare-Datentypen.iml" filepath="$PROJECT_DIR$/P002-Elementare-Datentypen/P002-Elementare-Datentypen.iml" />
       <module fileurl="file://$PROJECT_DIR$/P003-Variablen/P003-Variablen.iml" filepath="$PROJECT_DIR$/P003-Variablen/P003-Variablen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P004-Temperaturkonverter/P004-Temperaturkonverter.iml" filepath="$PROJECT_DIR$/P004-Temperaturkonverter/P004-Temperaturkonverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P005-Einheitenumwandler/P005-Einheitenumwandler.iml" filepath="$PROJECT_DIR$/P005-Einheitenumwandler/P005-Einheitenumwandler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P006-FormatierteAusgabe/P006-FormatierteAusgabe.iml" filepath="$PROJECT_DIR$/P006-FormatierteAusgabe/P006-FormatierteAusgabe.iml" />
     </modules>
   </component>
 </project>

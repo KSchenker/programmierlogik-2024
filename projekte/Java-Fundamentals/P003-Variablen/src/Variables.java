@@ -43,4 +43,9 @@ void main() {
 
     boolean isReady = false;
     boolean isDone = true;
+
+    int birthYear; // uninitialisierte Variable erstellen
+    // println(birthYear); // Fehler: uninitialisierte Variable kann nicht gelesen werden.
+    birthYear = 2000; // Variable initialisieren (erstmalige Zuweisung eines Wertes)
+    println(birthYear); // OK: Variable wurde zuvor initialisiert. Nun ist sie auslesbar.
 }
