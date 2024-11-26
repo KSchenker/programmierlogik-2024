@@ -38,7 +38,8 @@ void main() {
     println(Math.PI); // PI als double
     // Der Datentyp float kann nur etwa 8 bis 9 signifikante Stellen exakt darstellen.
     println((float)Math.PI); // PI als float (weniger Präzision)
-
+    println(2.2f); // Der Suffix f bedeutet "float". Die Zahl 2.2 wird also als float
+    // und nicht als double repräsentiert.
 
 
 }
