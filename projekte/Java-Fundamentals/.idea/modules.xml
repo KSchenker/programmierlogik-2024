@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/P004-Temperaturkonverter/P004-Temperaturkonverter.iml" filepath="$PROJECT_DIR$/P004-Temperaturkonverter/P004-Temperaturkonverter.iml" />
       <module fileurl="file://$PROJECT_DIR$/P005-Einheitenumwandler/P005-Einheitenumwandler.iml" filepath="$PROJECT_DIR$/P005-Einheitenumwandler/P005-Einheitenumwandler.iml" />
       <module fileurl="file://$PROJECT_DIR$/P006-FormatierteAusgabe/P006-FormatierteAusgabe.iml" filepath="$PROJECT_DIR$/P006-FormatierteAusgabe/P006-FormatierteAusgabe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P007-Verzweigungen/P007-Verzweigungen.iml" filepath="$PROJECT_DIR$/P007-Verzweigungen/P007-Verzweigungen.iml" />
     </modules>
   </component>
 </project>
