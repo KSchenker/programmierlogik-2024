@@ -1,98 +1,188 @@
-<mxfile host="Electron" modified="2024-11-27T13:16:12.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.6 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="wwxJNACEMYwMrwsUG-7d" version="24.4.6" type="device">
+<mxfile host="Electron" modified="2024-11-28T07:36:30.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.6 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="bmgIULoSPhf2u-dqYnR1" version="24.4.6" type="device">
   <diagram name="Seite-1" id="wyZdGmeMZKQfV_436Lzw">
-    <mxGraphModel dx="1111" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1297" dy="1078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-31" value="ja" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-1" target="HqOdx_jWrA7IKE5Yk3Zu-23">
+        <mxCell id="PUJrPsx8f8k0TphP7pfM-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="280" width="680" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-31" value="ja" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-1" target="HqOdx_jWrA7IKE5Yk3Zu-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-32" value="nein" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-1" target="HqOdx_jWrA7IKE5Yk3Zu-30">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-32" value="nein" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-1" target="HqOdx_jWrA7IKE5Yk3Zu-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-1" value="Ist Ware Tiernahrung?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-1" value="Ist Ware Tiernahrung?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="600" y="414" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-2" target="HqOdx_jWrA7IKE5Yk3Zu-9">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-2" target="HqOdx_jWrA7IKE5Yk3Zu-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-2" value="Eingabe Nettopreis" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" vertex="1" parent="1">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-2" value="Eingabe Nettopreis" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="220" y="290" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-3" target="HqOdx_jWrA7IKE5Yk3Zu-2">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-3" target="HqOdx_jWrA7IKE5Yk3Zu-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-3" value="Mehrwertsteuersatz festlegen" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-3" value="Mehrwertsteuersatz festlegen" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="225" y="210" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-5" target="HqOdx_jWrA7IKE5Yk3Zu-3">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-5" target="HqOdx_jWrA7IKE5Yk3Zu-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-5" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-5" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="250" y="90" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-6" value="Ende" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-6" value="Ende" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="250" y="590" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-9" target="HqOdx_jWrA7IKE5Yk3Zu-11">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-9" target="HqOdx_jWrA7IKE5Yk3Zu-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-9" value="Bruttopreis berechnen" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-9" value="Bruttopreis berechnen" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="225" y="394" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-11" target="HqOdx_jWrA7IKE5Yk3Zu-6">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-11" target="HqOdx_jWrA7IKE5Yk3Zu-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-11" value="Ausgabe des &lt;br&gt;Bruttopreises" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" vertex="1" parent="1">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-11" value="Ausgabe des &lt;br&gt;Bruttopreises" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="220" y="480" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-14" value="&lt;h1&gt;Programmablaufplan (PAP)&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-14" value="&lt;h1&gt;Programmablaufplan (PAP)&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="30" width="462.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-16" target="HqOdx_jWrA7IKE5Yk3Zu-27">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-16" target="HqOdx_jWrA7IKE5Yk3Zu-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-16" value="Eingabe Nettopreis" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" vertex="1" parent="1">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-16" value="Eingabe Nettopreis" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="570" y="190" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-20" target="HqOdx_jWrA7IKE5Yk3Zu-16">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-20" target="HqOdx_jWrA7IKE5Yk3Zu-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-20" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-20" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="600" y="90" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-21" value="Ende" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-21" value="Ende" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="600" y="880" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-23" target="HqOdx_jWrA7IKE5Yk3Zu-33">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-23" target="HqOdx_jWrA7IKE5Yk3Zu-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-23" value="Setze Mehrwertsteuer auf 7%" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-23" value="Setze Mehrwertsteuer auf 7%" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="440" y="560" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-25" target="HqOdx_jWrA7IKE5Yk3Zu-21">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-25" target="HqOdx_jWrA7IKE5Yk3Zu-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-25" value="Ausgabe des &lt;br&gt;Bruttopreises" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" vertex="1" parent="1">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-25" value="Ausgabe des &lt;br&gt;Bruttopreises" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="570" y="767" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-27" target="HqOdx_jWrA7IKE5Yk3Zu-1">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-27" target="HqOdx_jWrA7IKE5Yk3Zu-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-27" value="Eingabe ob Ware&lt;div&gt;Tiernahrung ist&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" vertex="1" parent="1">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-27" value="Eingabe ob Ware&lt;div&gt;Tiernahrung ist&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="570" y="290" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-30" target="HqOdx_jWrA7IKE5Yk3Zu-33">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-30" target="HqOdx_jWrA7IKE5Yk3Zu-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-30" value="Setze Mehrwertsteuer auf 19%" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-30" value="Setze Mehrwertsteuer auf 19%" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="710" y="560" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-33" target="HqOdx_jWrA7IKE5Yk3Zu-25">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HqOdx_jWrA7IKE5Yk3Zu-33" target="HqOdx_jWrA7IKE5Yk3Zu-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-33" value="Bruttopreis berechnen" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="HqOdx_jWrA7IKE5Yk3Zu-33" value="Bruttopreis berechnen" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="575" y="680" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PUJrPsx8f8k0TphP7pfM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PUJrPsx8f8k0TphP7pfM-1" target="PUJrPsx8f8k0TphP7pfM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUJrPsx8f8k0TphP7pfM-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1039" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PUJrPsx8f8k0TphP7pfM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PUJrPsx8f8k0TphP7pfM-2" target="PUJrPsx8f8k0TphP7pfM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUJrPsx8f8k0TphP7pfM-2" value="Nutzereingabe" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.051562500000000004;" vertex="1" parent="1">
+          <mxGeometry x="1009" y="200" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PUJrPsx8f8k0TphP7pfM-9" value="ja" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PUJrPsx8f8k0TphP7pfM-3" target="PUJrPsx8f8k0TphP7pfM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUJrPsx8f8k0TphP7pfM-12" value="nein" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PUJrPsx8f8k0TphP7pfM-3" target="PUJrPsx8f8k0TphP7pfM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUJrPsx8f8k0TphP7pfM-3" value="Ist Eingabe ein &quot;j&quot;?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1039" y="314" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PUJrPsx8f8k0TphP7pfM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PUJrPsx8f8k0TphP7pfM-6" target="PUJrPsx8f8k0TphP7pfM-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUJrPsx8f8k0TphP7pfM-6" value="Setze Mehrwertsteuer auf 7%" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="920" y="470" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PUJrPsx8f8k0TphP7pfM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PUJrPsx8f8k0TphP7pfM-8" target="PUJrPsx8f8k0TphP7pfM-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="995" y="820" />
+              <mxPoint x="1094" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PUJrPsx8f8k0TphP7pfM-8" value="Ausgabe &quot;Tiernahrung wird mit 7% besteuert&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.046875;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="915" y="560" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PUJrPsx8f8k0TphP7pfM-15" value="ja" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PUJrPsx8f8k0TphP7pfM-11" target="PUJrPsx8f8k0TphP7pfM-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUJrPsx8f8k0TphP7pfM-18" value="nein" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PUJrPsx8f8k0TphP7pfM-11" target="PUJrPsx8f8k0TphP7pfM-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUJrPsx8f8k0TphP7pfM-11" value="Ist Eingabe ein &quot;n&quot;?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="440" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PUJrPsx8f8k0TphP7pfM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PUJrPsx8f8k0TphP7pfM-13" target="PUJrPsx8f8k0TphP7pfM-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUJrPsx8f8k0TphP7pfM-13" value="Setze Mehrwertsteuer auf 19%" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="600" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PUJrPsx8f8k0TphP7pfM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PUJrPsx8f8k0TphP7pfM-14" target="PUJrPsx8f8k0TphP7pfM-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUJrPsx8f8k0TphP7pfM-14" value="Ausgabe &quot;Ware wird mit 19% besteuert&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.046875;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="700" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PUJrPsx8f8k0TphP7pfM-17" value="Ausgabe: &quot;Falsche Eingabe. Abbruch&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.046875;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="590" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PUJrPsx8f8k0TphP7pfM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PUJrPsx8f8k0TphP7pfM-19" target="PUJrPsx8f8k0TphP7pfM-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUJrPsx8f8k0TphP7pfM-19" value="Bruttopreis berechnen" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1019" y="880" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PUJrPsx8f8k0TphP7pfM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PUJrPsx8f8k0TphP7pfM-22" target="PUJrPsx8f8k0TphP7pfM-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUJrPsx8f8k0TphP7pfM-22" value="Ausgabe des &lt;br&gt;Bruttopreises" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="1014" y="980" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PUJrPsx8f8k0TphP7pfM-24" value="Ende" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1044" y="1100" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PUJrPsx8f8k0TphP7pfM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PUJrPsx8f8k0TphP7pfM-17" target="PUJrPsx8f8k0TphP7pfM-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1480" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PUJrPsx8f8k0TphP7pfM-27" value="&lt;div&gt;Nutzereingabe&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;if (Eingabe == &quot;j&quot;) {&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Setze Mehrwertsteuer auf 7%&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Ausgabe: &quot;Tiernahrung mit 7%&quot;&lt;br&gt;&lt;/div&gt;&lt;div&gt;} else if (Eingabe == &quot;n&quot;) {&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Setze Mehrwertsteuer auf 19%&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Ausgabe: &quot;Normale Ware mit 19%&quot;&lt;br&gt;&lt;/div&gt;&lt;div&gt;} else {&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Ausgabe: &quot;Falsche Eingabe&quot;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Abbruch&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;Bruttopreis berechnen&lt;/div&gt;&lt;div&gt;Ausgabe des Bruttopreises&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="170" width="320" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

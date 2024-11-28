@@ -4,6 +4,16 @@ void main() {
     double tax = 19; // Mehrwertsteuer
     double brutto;
 
+    // Allgemeine Syntax:
+    // if (BedingungA) {
+    //   Anweisungen
+    // } else if (BedingungB) {
+    //   Anweisungen
+    // } else {
+    //   Anweisungen
+    // }
+    // "else if" und "else" sind optional.
+
     String userInput = readln("Ist das Tiernahrung (j/n): ");
     if (userInput.equals("j")) {
         tax = 7;
