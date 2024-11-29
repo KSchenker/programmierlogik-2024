@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/P006-FormatierteAusgabe/P006-FormatierteAusgabe.iml" filepath="$PROJECT_DIR$/P006-FormatierteAusgabe/P006-FormatierteAusgabe.iml" />
       <module fileurl="file://$PROJECT_DIR$/P007-Verzweigungen/P007-Verzweigungen.iml" filepath="$PROJECT_DIR$/P007-Verzweigungen/P007-Verzweigungen.iml" />
       <module fileurl="file://$PROJECT_DIR$/P008-Schleifen/P008-Schleifen.iml" filepath="$PROJECT_DIR$/P008-Schleifen/P008-Schleifen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P009-Arrays/P009-Arrays.iml" filepath="$PROJECT_DIR$/P009-Arrays/P009-Arrays.iml" />
     </modules>
   </component>
 </project>
